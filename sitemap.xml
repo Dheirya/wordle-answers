@@ -2,8 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://wordle-answers.vercel.app/</loc>
-    <lastmod>2011-12-06T17:38:21+00:00</lastmod>
+    <changefreq>always</changefreq>    
     <priority>1.0</priority>
-    <changefreq>always</changefreq>
   </url>
 </urlset>
